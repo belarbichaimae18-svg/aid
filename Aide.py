@@ -68,6 +68,14 @@ st.markdown("""
     color:#999;
 }
 
+.signature{
+    margin-top:25px;
+    font-size:24px;
+    color:#d63384;
+    font-weight:bold;
+    letter-spacing:1px;
+}
+
 @keyframes pulse{
     0%{transform:scale(1);}
     50%{transform:scale(1.1);}
@@ -113,6 +121,10 @@ st.markdown("""
 
 مهندسة بأحلام كبيرة وقلب مليء بالنور 💖
 
+</div>
+
+<div class="signature">
+CHAIMAE BELARBI ✨
 </div>
 
 <div class="gold-line"></div>
